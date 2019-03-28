@@ -23,11 +23,13 @@ projects:
     forks: false
     projects:
       jahidulpabelislam.github.io
+      eslint-config
+      prettier-config
 
 social_media:
-  # facebook: your_username
   linkedin: jahidulpabelislam
   # twitter: your_username
+  # facebook: your_username
 
 topics:
   - name: PHP
